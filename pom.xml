@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.J0aCunha</groupId>
 	<artifactId>BackEnd-Todo-List</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>BackEnd-Todo-List</name>
 	<description>Gerenciador de tarefas</description>
 	<properties>
